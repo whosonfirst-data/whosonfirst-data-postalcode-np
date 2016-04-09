@@ -1,0 +1,50 @@
+{
+  "id": 538940425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"NP",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        102191569,
+        421179887,
+        85632465,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"12742042"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "locality_id":421179887,
+            "postalcode_id":538940425,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":538940425,
+    "wof:lastmodified":1460094910,
+    "wof:name":"44203",
+    "wof:parent_id":"421179887",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

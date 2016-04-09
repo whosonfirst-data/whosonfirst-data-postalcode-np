@@ -1,0 +1,50 @@
+{
+  "id": 538939669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"NP",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        102191569,
+        421184685,
+        85632465,
+        85675547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"12741989"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "locality_id":421184685,
+            "postalcode_id":538939669,
+            "region_id":85675547
+        }
+    ],
+    "wof:id":538939669,
+    "wof:lastmodified":1460094881,
+    "wof:name":"33610",
+    "wof:parent_id":"421184685",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
